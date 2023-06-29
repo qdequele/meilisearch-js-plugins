@@ -13,6 +13,7 @@
     "@meilisearch/angular-playground",
     "@meilisearch/vue3-ts-playground",
     "@meilisearch/react-playground",
-    "@meilisearch/local-react-playground"
+    "@meilisearch/local-react-playground",
+    "@meilisearch/next-commandbar-playground"
   ]
 }
